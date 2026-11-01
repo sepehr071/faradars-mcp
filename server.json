@@ -1,0 +1,32 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.sepehr071/faradars-mcp",
+  "title": "Faradars Courses",
+  "description": "Read-only Faradars (faradars.org) courses: search, prices, syllabus, reviews, instructors, magazine.",
+  "repository": {
+    "url": "https://github.com/sepehr071/faradars-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://github.com/sepehr071/faradars-mcp",
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "registryBaseUrl": "https://pypi.org",
+      "identifier": "faradars-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "uvx",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "FARADARS_MCP_PROXY",
+          "description": "Optional HTTP proxy URL for the Faradars requests; system proxy settings are ignored. Also accepts a comma-separated list: one is used until it gets blocked or fails to connect, then the next.",
+          "isRequired": false,
+          "isSecret": false
+        }
+      ]
+    }
+  ]
+}

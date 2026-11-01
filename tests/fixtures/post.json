@@ -1,0 +1,111 @@
+[
+ {
+  "id": 424985,
+  "date": "2018-10-08T16:39:19",
+  "modified": "2026-08-02T08:14:04",
+  "slug": "python-programming-language",
+  "link": "https://blog.faradars.org/python-programming-language/",
+  "title": {
+   "rendered": "زبان برنامه نویسی پایتون (Python) چیست؟ – از صفر تا صد و به زبان ساده"
+  },
+  "content": {
+   "rendered": "<p>«زبان برنامه نویسی پایتون» (Python Programming Language)، زبانی مفسری،‌ سطح بالا، شیءگرا و اسکریپتی است. <a href=\"https://blog.faradars.org/%D8%B3%DB%8C%D9%86%D8%AA%DA%A9%D8%B3-%DA%86%DB%8C%D8%B3%D8%AA/\">سینتکس</a> آن شباهت زیادی به زبان انسان دارد. در نتیجه، یادگیری آن هم ساده است. بسیاری از برنامه‌نویس‌های تازه‌کار پایتون را به عنوان اولین زبان برنامه‌نویسی خود برمی‌گزینند. پایتون به عنوان «زبان همه‌منظوره» (General-Purpose Language) ساخته داده شده. در نتیجه به توسعه نوع خاصی از نرم‌افزارها محدود نشده است. به بیان دیگر، می‌توان از آن برای انجام هر کاری مانند <a href=\"https://blog.faradars.org/python-for-data-science-from-zero-to-hero/\">«تحلیل داده» (Data Analysis)</a>، ساخت بازی‌های کامپیوتری و غیره استفاده کرد. همچنین، پایتون در میان جوامع علمی نیز از محبوبیت فوق‌العاده‌ای برخوردار است، زیرا ابزارهای قدرتمندی برای محاسبه معادلات پیچیده و تحلیل‌های داده ارائه می‌دهد. <a href=\"https://blog.faradars.org/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d9%85%d8%b3%db%8c%d8%b1-%db%8c%d8%a7%d8%af%da%af%db%8c%d8%b1%db%8c-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86/\">یادگیری پایتون</a> می‌تواند فرصت‌های شغلی بسیار خوبی در مقابل افراد قرار بدهد.</p>\n<p>در ادامه به طور دقیق‌تر به چیستی این زبان، دلایل محبوبیت، ویژگی‌ها، مزایا و معایب، <a href=\"https://blog.faradars.org/%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/\">کاربردها</a>، نسخه‌های گوناگون و چگونگی انتخاب از میان آن‌ها، روش راه‌اندازی محیط پایتون، چیستی <a href=\"https://blog.faradars.org/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-django-%d8%ac%d9%86%da%af%d9%88/\">«جنگو» (Django)</a>، تفاوت‌های پایتون با دیگر زبان‌های برنامه‌نویسی، جمعیت برنامه‌نویس‌های پایتون در جهان، وضعیت اشتغال برنامه‌نویس‌های پایتون در ایران، شش پروژه برنامه‌نویسی پایتون برای مبتدیان، مزایای یادگیری و روش یادگیری این زبان پرداخته خواهد شد.</p>\n<p>\n        <div>\n            <a href=\"https://blog.faradars.org/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3%db%8c-%da%86%db%8c%d8%b3%d8%aa/\" class=\"fdb-linkmark fdb-linkmark-compact\">\n                <div class=\"fdb-linkmark-content\">\n                    <div class=\"fdb-linkmark-title\">\n                        <div class=\"fdb-linkmark-subtitle\">مطلب پیشنهادی:</div>\n                        برنامه نویسی چیست ؟‌ – همه چیز هایی که باید بدانید + کاربردها                    </div>\n                    <div class=\"fdb-linkmark-button\">شروع مطالعه</div>\n                    <!-- <div class=\"fdb-linkmark-description\">در این مطلب به سوالات مهمی مثل برنامه نویسی چیست و کاربرد برنامه نویسی چگونه است پاسخ داده و همه چیز را در مورد برنامه نویسی می گوییم.</div> -->\n                    <!-- <div class=\"fdb-linkmark-url\">https://blog.faradars.org/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3%db%8c-%da%86%db%8c%d8%b3%d8%aa/</div> -->\n                </div>\n                <div class=\"fdb-linkmark-image\" style=\"background-image: url(https://blog.faradars.org/wp-content/uploads/2022/02/What-is-Programming-Index-AI-1.jpg)\"></div>\n            </a>\n        </div>\n\n    </p>\n<h2 id=\"%d8%b2%d8%a8%d8%a7%d9%86-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86-%da%86%db%8c%d8%b3%d8%aa%d8%9f-0\">زبان برنامه نویسی پایتون چیست؟</h2>\n<p>به بیان فنی، «پایتون» (Python) یک زبان برنامه‌نویسی «<a href=\"https://blog.faradars.org/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%B4%DB%8C-%DA%AF%D8%B1%D8%A7-%DA%86%DB%8C%D8%B3%D8%AA/\">شی‌گرا</a>» (Object-Oriented) و «سطح بالا» (High-Level) با «معناشناسی» (Semantic) پویای یکپارچه شده برای وب و ساخت و توسعه «نرم‌افزارهای کاربردی» (Application software) است. این زبان برنامه‌نویسی در زمینه «توسعه سریع نرم‌افزارهای کاربردی» (Rapid Application Development) دارای جذابیت بالایی محسوب می‌شود زیرا دارای «انواع پویا» (Dynamic Types) و «انقیاددهنده پویا» (Dynamic Binding) است.</p>\n<div class=\"fdm-course-wrapper\">\n        <fdmcourse title=\"فیلم آموزش برنامه‌نویسی پایتون – مقدماتی در فرادرس\"\n        url=\"https://faradars.org/courses/python-programming-basic-fvpht0064?utm_source=blog.faradars&utm_medium=referral-post&utm_campaign=related-courses-inline-5&utm_term=elibugy&utm_content=python\"\n        imagesrc=\"https://faradars.org/wp-content/uploads/2026/09/16/fvpht0064.svg\" showvideo=\"true\" videosrc=\"https://vid.faradars.org/dl/fvpht0064/480/fvpht0064_00_ksx6209f.mp4\">\n    </fdmcourse>\n</div>\n</p>\n<p>پایتون، زبان برنامه‌نویسی نسبتا ساده‌ای محسوب می‌شود که یادگیری آن به دلیل دارا بودن «نحو» یکتایی که بر قابلیت خوانایی تمرکز و تاکید دارد آسان است. خواندن و ترجمه کدهای نوشته شده به زبان برنامه نویسی پایتون نسبت به دیگر زبان‌ها برای «توسعه‌دهندگان» (Developers) ساده‌تر محسوب می‌شود. این موضوع به نوبه خود هزینه‌های نگهداری و توسعه برنامه‌های نوشته شده به این زبان را کاهش می‌دهد زیرا امکان همکاری تیم‌ها بدون مواجهه با موانع زبانی و وجود تجربیات کاری متفاوت در میان اعضای تیم را به دست می‌دهد.</p>\n<ul>\n<li><b>مقاله پیشنهادی: <a href=\"https://blog.faradars.org/%d8%a2%db%8c%d8%a7-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%b3%d8%ae%d8%aa-%d8%a7%d8%b3%d8%aa/\">آیا برنامه نویسی سخت است؟ – راهنمایی آگاهانه برای شروع</a><br />\n</b></li>\n</ul>\n<p>علاوه بر این، زبان برنامه نویسی پایتون از «ماژول‌ها» (modules) و «بسته‌ها» (packages) استفاده می‌کند، بدین معنا که برنامه‌های این زبان قابل طراحی به سبک «ماژولار» (modular) هستند و کدهای نوشته شده در یک پروژه در پروژه‌های گوناگون دیگر نیز قابل استفاده مجدد محسوب می‌شوند.</p>\n<figure class=\"fdb-image\"><picture><source srcset=\"https://blog.faradars.org/wp-content/uploads/2018/10/What-is-Python-Programming-Language-AI-2.jpg.webp\" type=\"image/webp\"><img class=\"aligncenter wp-image-1012301 webpexpress-processed\" src=\"https://blog.faradars.org/wp-content/uploads/2018/10/What-is-Python-Programming-Language-AI-2.jpg\" alt=\"تصویر گرافیکی یک پسر جوان پشت میز در حال نگاه کردن به صفحه مانیور لپ تاپ (تصویر تزئینی مطلب زبان برنامه نویسی پایتون چیست)\" width=\"600\" height=\"338\"></picture></figure>\n<p>هنگامی که کاربری ماژول یا بسته مورد نیاز خود را توسعه داد، خودش یا دیگر علاقمندان (در صورتی<script>x()</script><h2>پایان</h2><ul><li>الف</li><li>ب</li></ul>"
+  },
+  "categories": [
+   {
+    "term_id": 322583,
+    "name": "پایتون",
+    "slug": "python",
+    "term_group": 0,
+    "term_taxonomy_id": 322589,
+    "taxonomy": "category",
+    "description": "",
+    "parent": 0,
+    "count": 472,
+    "filter": "raw",
+    "path": "/category/python/"
+   }
+  ],
+  "tags": [
+   {
+    "term_id": 65361,
+    "name": "API",
+    "slug": "api",
+    "term_group": 0,
+    "term_taxonomy_id": 65366,
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": 0,
+    "count": 60,
+    "filter": "raw",
+    "path": "/tag/api/"
+   },
+   {
+    "term_id": 81147,
+    "name": "GIS",
+    "slug": "gis",
+    "term_group": 0,
+    "term_taxonomy_id": 81153,
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": 0,
+    "count": 5,
+    "filter": "raw",
+    "path": "/tag/gis/"
+   }
+  ],
+  "views": "25986",
+  "comments_count": 37,
+  "reading_time": "۴۲ دقیقه",
+  "words_count": 25401,
+  "votes": {
+   "count": 173,
+   "stars": 4.91907514450867
+  },
+  "author_name": "الهام حصارکی",
+  "related_posts": [
+   {
+    "id": 1269492,
+    "slug": "%d9%be%d8%b1%d9%88%da%98%d9%87-%d9%87%d8%a7%db%8c-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d8%aa%d9%85%d8%b1%db%8c%d9%86",
+    "title": {
+     "rendered": "پروژه های پایتون برای تمرین برنامه نویسی – ۱۲ تمرین از ساده تا دشوار"
+    }
+   },
+   {
+    "id": 1267574,
+    "slug": "fastapi-%da%86%db%8c%d8%b3%d8%aa",
+    "title": {
+     "rendered": "FastAPI چیست؟ – آموزش از صفر برای ساخت API"
+    }
+   }
+  ],
+  "key_takeaways": [
+   "با مهم‌‌ترین دلایل محبوبیت زبان پایتون بین برنامه نویسان آشنا می‌شوید.",
+   "مهم‌ترین مزایا و معایب پایتون را شناخته و می‌توانید برای یادگیری آن تصمیم بگیرید.",
+   "با انواع کاربرد‌های پایتون آشنا شده و می‌توانید گرایش مورد نظر خود را انتخاب کنید.",
+   "روش درست راه‌اندازی محیط برنامه نویسی پایتون را یاد می‌گیرید.",
+   "با فریم‌ورک کارآمد جنگو و کاربرد‌های آن آشنا می‌شوید.",
+   "با وضعیت اشتغال برنامه نویسان پایتون و بازار کار جهانی این زبان برنامه نویسی آشنا می‌شوید."
+  ],
+  "headings": [
+   {
+    "id": "%d8%b2%d8%a8%d8%a7%d9%86-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86-%da%86%db%8c%d8%b3%d8%aa%d8%9f-0",
+    "title": "زبان برنامه نویسی پایتون چیست؟",
+    "html_tag": "h2",
+    "children": []
+   },
+   {
+    "id": "%d8%af%d9%84%d8%a7%db%8c%d9%84-%d9%85%d8%ad%d8%a8%d9%88%d8%a8%db%8c%d8%aa-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86-%da%86%d9%87-%d9%87%d8%b3%d8%aa%d9%86%d8%af%d8%9f-1",
+    "title": "دلایل محبوبیت پایتون چه هستند؟",
+    "html_tag": "h2",
+    "children": []
+   },
+   {
+    "id": "%d9%88%db%8c%da%98%da%af%db%8c%d9%87%d8%a7%db%8c-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86-2",
+    "title": "ویژگی‌های پایتون",
+    "html_tag": "h2",
+    "children": []
+   }
+  ]
+ }
+]

@@ -1,0 +1,23 @@
+{
+ "status": true,
+ "data": [
+  {
+   "id": 36486,
+   "title": "مجموعه آموزش برنامه نویسی – مقدماتی تا پیشرفته",
+   "slug": "programming",
+   "count_product": 140
+  },
+  {
+   "id": 9208095,
+   "title": "مجموعه آموزش برنامه نویسی C و C++‎ – مقدماتی تا پیشرفته",
+   "slug": "c-and-c-plus-plus-programming",
+   "count_product": 20
+  },
+  {
+   "id": 83707,
+   "title": "مجموعه آموزش برنامه نویسی سی شارپ C#‎ – مقدماتی تا پیشرفته",
+   "slug": "c-sharp-programming",
+   "count_product": 65
+  }
+ ]
+}

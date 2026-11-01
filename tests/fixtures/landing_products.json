@@ -1,0 +1,105 @@
+{
+ "products": [
+  {
+   "id": 9230169,
+   "title": "آموزش رایگان پایتون – برنامه نویسی سریع و آسان در ۱۴۰ دقیقه + گواهینامه",
+   "slug": "crash-course-of-python-fvpht007",
+   "url": "https://faradars.org/courses/crash-course-of-python-fvpht007",
+   "type": "course",
+   "price": 0,
+   "status": "published",
+   "duration": {
+    "hours": 2,
+    "minutes": 24,
+    "in_minutes": 144,
+    "rounded_in_hour": 2
+   },
+   "student_count": 196849,
+   "instructors": [
+    {
+     "first_name": "پژمان",
+     "last_name": "اقبالی شمس آبادی"
+    }
+   ],
+   "festival_new": null,
+   "rating": {
+    "count": 4524,
+    "average": 4.71
+   },
+   "has_certificate": true
+  },
+  {
+   "id": 9231487,
+   "title": "آموزش ویژوال پایتون – برنامه نویسی پایتون بدون کدنویسی با Visual Python + گواهینامه",
+   "slug": "python-programming-without-coding-using-visual-python-fvpy101",
+   "url": "https://faradars.org/courses/python-programming-without-coding-using-visual-python-fvpy101",
+   "type": "course",
+   "price": 1190000,
+   "status": "published",
+   "duration": {
+    "hours": 1,
+    "minutes": 32,
+    "in_minutes": 92,
+    "rounded_in_hour": 2
+   },
+   "student_count": 1663,
+   "instructors": [
+    {
+     "first_name": "فرشید",
+     "last_name": "شیرافکن"
+    }
+   ],
+   "festival_new": {
+    "price_on_festival": 238000,
+    "is_percent": true,
+    "discount_value": 80,
+    "discount": 952000
+   },
+   "rating": {
+    "count": 16,
+    "average": 4.66
+   },
+   "has_certificate": true
+  },
+  {
+   "id": 9242824,
+   "title": "آموزش پروژه محور پایتون – حل ۲۰ مسئله کاربردی در برنامه نویسی + گواهینامه",
+   "slug": "python-practical-problem-solving-fvpy426",
+   "url": "https://faradars.org/courses/python-practical-problem-solving-fvpy426",
+   "type": "course",
+   "price": 1990000,
+   "status": "published",
+   "duration": {
+    "hours": 2,
+    "minutes": 43,
+    "in_minutes": 163,
+    "rounded_in_hour": 3
+   },
+   "student_count": 162,
+   "instructors": [
+    {
+     "first_name": "سپهر",
+     "last_name": "گودرزی"
+    }
+   ],
+   "festival_new": {
+    "price_on_festival": 119000,
+    "is_percent": false,
+    "discount_value": 119000,
+    "discount": 1871000
+   },
+   "rating": {
+    "count": 3,
+    "average": 4.76
+   },
+   "has_certificate": true
+  }
+ ],
+ "pagination": {
+  "page": 1,
+  "items_per_page": 20,
+  "total_pages": 7,
+  "total_items": 137,
+  "remaining_pages": 6
+ }
+}

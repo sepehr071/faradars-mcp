@@ -1,0 +1,29 @@
+{
+ "status": true,
+ "data": {
+  "login_register": [],
+  "classes_instructor": [],
+  "educational_files": [],
+  "purchase_subscription": [
+   {
+    "subject": "purchase_subscription",
+    "question": "<p>روش&zwnj; تهیه و دسترسی به آموزش&zwnj;ها&nbsp; به چه صورت است؟</p>",
+    "answer": "<p>در فرادرس می&zwnj;توانید آموزش&zwnj;ها را به دو روش تهیه کنید:</p>\r\n\r\n<p style=\"margin-right:40px\">▪️<strong>روش اول &ndash;&nbsp; &nbsp;خرید تکی آموزش&zwnj;ها</strong>: برای تهیه آموزش به صورت تکی، کافی است تا آموزش مورد نظرخود را به سبد سفارش اضافه کرده و سفارش خود را نهایی کنید.</p>\r\n\r\n<p style=\"margin-right:40px\">▪️<strong>روش دوم &ndash; دسترسی به همه آموزش&zwnj;ها با اشتراک فرادرس</strong>: با اشتراک فرادرس به همه&nbsp; ۱۸,۰۰۰+ آموزش ،&nbsp; ۲۰۰,۰۰۰+ تمرین و آزمون به همراه پاسخ و هزاران آموزش دارای گواهینامه دسترسی خواهید داشت. برای تهیه و فعالسازی اشتراک وارد <a href=\"https://faradars.org/subscription\">این لینک (+)</a> شوید.</p>\r\n\r\n<p>پس از خرید یا فعال شدن اشتراک، آموزش&zwnj;ها در بخش &laquo;آموزش&zwnj;های من&raquo; در حساب کاربری شما قابل مشاهده خواهند بود.</p>"
+   }
+  ],
+  "viewing_certificate": [
+   {
+    "subject": "viewing_certificate",
+    "question": "<p><strong>اعتبار آموزش</strong>: آموزش&zwnj;های خریداری&zwnj; شده تا چه زمانی در حساب من فعال هستند؟</p>",
+    "answer": "<p>&nbsp;آموزش&zwnj;هایی که به&zwnj;صورت تکی تهیه می&zwnj;کنید، برای همیشه در حساب کاربری شما فعال می&zwnj;مانند.</p>\r\n\r\n<p>برای مشاهده آموزش&zwnj;های خریداری&zwnj;شده محدودیت زمانی ندارید و هر زمان می&zwnj;توانید با ورود به حساب کاربری خود، از بخش <strong>آموزش&zwnj;های من</strong> به آن&zwnj;ها دسترسی داشته باشید.</p>\r\n\r\n<p><a href=\"https://faradars.org/my-account/courses\" style=\"display:inline-block;margin-top:14px;background:#2563eb !important;text-decoration:none !important;border-radius:10px;padding:9px 16px;font-weight:700;border:1px solid #1d4ed8;\"><span style=\"color:#ffffff !important\">مشاهده آموزش&zwnj;های من</span></a></p>"
+   }
+  ],
+  "support_payment": [
+   {
+    "subject": "support_payment",
+    "question": "<p><strong>ارتباط با&nbsp; پشتیبانی</strong> فرادرس چگونه است؟</p>",
+    "answer": "<p>برای ارتباط با بخش پشتیبانی فرادرس، می&zwnj;توانید مسیرهای زیر را دنبال کنید:</p>\r\n\r\n<p style=\"margin-right:40px\">▪️ تماس تلفنی در روزهای شنبه تا چهارشنبه با شماره&nbsp; <a href=\"http://tel:02157916000\">۵۷۹۱۶۰۰۰-۰۲۱&nbsp;&nbsp;</a></p>\r\n\r\n<p style=\"margin-right:40px\">▪️ چت آنلاین موجود در گوشه پایین سایت</p>\r\n\r\n<p style=\"margin-right:40px\">▪️ ارسال تیکت پشتیبانی در حساب کاربری</p>\r\n\r\n<p>همچنین سایر روش&zwnj;های ارتباط با بخش پشتیبانی را می&zwnj;توانید در لینک زیر ببینید.</p>\r\n\r\n<p><a href=\"https://faradars.org/contact-us\" style=\"display:inline-block;margin-top:14px;background:#2563eb !important;text-decoration:none !important;border-radius:10px;padding:9px 16px;font-weight:700;border:1px solid #1d4ed8;\"><span style=\"color:#ffffff !important\">صفحه تماس با ما</span></a></p>"
+   }
+  ]
+ }
+}

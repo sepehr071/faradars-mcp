@@ -1,0 +1,216 @@
+{
+ "products": [
+  {
+   "id": 9247577,
+   "title": "آموزش ساخت ربات تلگرام با پایتون – گام‌به‌گام و عملی (رایگان)",
+   "title_short": "آموزش ساخت ربات تلگرام با پایتون",
+   "duration": {
+    "hours": 0,
+    "minutes": 22,
+    "in_minutes": 22,
+    "rounded_in_hour": 0
+   },
+   "svg_image": "https://faradars.org/wp-content/uploads/2026/10/20/fvtgs15252_751b6.svg",
+   "png_image": "https://faradars.org/wp-content/uploads/2026/10/20/fvtgs15252_751b6.png",
+   "svg_featured_image": "https://faradars.org/wp-content/uploads/2026/10/20/fvtgs15252.svg",
+   "png_featured_image": "https://faradars.org/wp-content/uploads/2026/10/20/fvtgs15252.png",
+   "url": "https://faradars.org/videos/telegram-bot-with-python-fvtgs15252",
+   "sku": "fvtgs15252",
+   "slug": "telegram-bot-with-python-fvtgs15252",
+   "status": "published",
+   "type": "video",
+   "is_huge": false,
+   "has_exam": false,
+   "has_certificate": false,
+   "creation_age": 41,
+   "publish_age": 9172831,
+   "total_view": 574,
+   "total_sale": 3,
+   "total_student": 20,
+   "score": null,
+   "price": 0,
+   "instructors": [
+    {
+     "first_name": "ارشیا",
+     "last_name": "تیلستانی"
+    }
+   ],
+   "webinar_times": [],
+   "is_favorite": false,
+   "is_buy": false,
+   "in_cart": false,
+   "festival": [],
+   "festival_new": null,
+   "watchTime_Percent": 0,
+   "student_count": 20,
+   "rating": {
+    "count": 0,
+    "average": 0
+   }
+  },
+  {
+   "id": 9248063,
+   "title": "چگونه تحلیلگر داده شویم؟ – مهارت ها و وظایف Data Analyst (آموزش رایگان)",
+   "title_short": "چگونه تحلیلگر داده شویم؟",
+   "duration": {
+    "hours": 0,
+    "minutes": 18,
+    "in_minutes": 18,
+    "rounded_in_hour": 0
+   },
+   "svg_image": "https://faradars.org/wp-content/uploads/2026/10/14/fvtgs15968.svg",
+   "png_image": "https://faradars.org/wp-content/uploads/2026/10/14/fvtgs15968.png",
+   "svg_featured_image": "https://faradars.org/wp-content/uploads/2026/10/14/6acf21d5c0e5b-fvtgs15968.svg",
+   "png_featured_image": "https://faradars.org/wp-content/uploads/2026/10/14/6acf21d5c0e5b-fvtgs15968.png",
+   "url": "https://faradars.org/videos/data-analyst-guide-fvtgs15968",
+   "sku": "fvtgs15968",
+   "slug": "data-analyst-guide-fvtgs15968",
+   "status": "published",
+   "type": "video",
+   "is_huge": false,
+   "has_exam": false,
+   "has_certificate": false,
+   "creation_age": 17,
+   "publish_age": 14467741,
+   "total_view": 244,
+   "total_sale": 2,
+   "total_student": 17,
+   "score": null,
+   "price": 0,
+   "instructors": [
+    {
+     "first_name": "مرضیه",
+     "last_name": "فروتن برجلو"
+    }
+   ],
+   "webinar_times": [],
+   "is_favorite": false,
+   "is_buy": false,
+   "in_cart": false,
+   "festival": [],
+   "festival_new": null,
+   "watchTime_Percent": 0,
+   "student_count": 17,
+   "rating": {
+    "count": 1,
+    "average": 5
+   }
+  },
+  {
+   "id": 9247029,
+   "title": "آموزش تشخیص اشیا در پایتون با YOLO + پیاده‌سازی پروژه عملی (آموزش رایگان)",
+   "title_short": "آموزش تشخیص اشیا در پایتون با YOLO",
+   "duration": {
+    "hours": 0,
+    "minutes": 26,
+    "in_minutes": 26,
+    "rounded_in_hour": 0
+   },
+   "svg_image": "https://faradars.org/wp-content/uploads/2026/10/10/fvpy453_da7d9.svg",
+   "png_image": "https://faradars.org/wp-content/uploads/2026/10/10/fvpy453_da7d9.png",
+   "svg_featured_image": "https://faradars.org/wp-content/uploads/2026/10/10/fvpy453.svg",
+   "png_featured_image": "https://faradars.org/wp-content/uploads/2026/10/10/fvpy453.png",
+   "url": "https://faradars.org/videos/yolo-object-detection-python-fvpy453",
+   "sku": "fvpy453",
+   "slug": "yolo-object-detection-python-fvpy453",
+   "status": "published",
+   "type": "video",
+   "is_huge": false,
+   "has_exam": false,
+   "has_certificate": false,
+   "creation_age": 74,
+   "publish_age": 17838681,
+   "total_view": 477,
+   "total_sale": 1,
+   "total_student": 14,
+   "score": null,
+   "price": 0,
+   "instructors": [
+    {
+     "first_name": "علی",
+     "last_name": "صالحی"
+    }
+   ],
+   "webinar_times": [],
+   "is_favorite": false,
+   "is_buy": false,
+   "in_cart": false,
+   "festival": [],
+   "festival_new": null,
+   "watchTime_Percent": 0,
+   "student_count": 14,
+   "rating": {
+    "count": 0,
+    "average": 0
+   }
+  }
+ ],
+ "filters": {
+  "category_id": [
+   {
+    "id": 1737,
+    "name": "free-courses",
+    "persian_name": "آموزش‌های فرادرسی رایگان",
+    "count": 213,
+    "selected": true
+   },
+   {
+    "id": 70382,
+    "name": "python",
+    "persian_name": "پایتون",
+    "count": 168,
+    "selected": true
+   },
+   {
+    "id": 333141,
+    "name": "programming-languages",
+    "persian_name": "زبان‌های برنامه‌نویسی",
+    "count": 94,
+    "selected": true
+   }
+  ],
+  "type": [
+   {
+    "name": "course",
+    "persian_name": "آموزش‌های ویدئویی",
+    "count": 10935,
+    "selected": true
+   },
+   {
+    "name": "video",
+    "persian_name": "api.explore.filters.product.type.video",
+    "count": 8314,
+    "selected": true
+   },
+   {
+    "name": "exam",
+    "persian_name": "آزمون‌ها",
+    "count": 229,
+    "selected": true
+   }
+  ],
+  "instructor_id": [
+   {
+    "id": 85538,
+    "name": "amirreza-nikkhah",
+    "persian_name": "امیررضا نیک‌خواه",
+    "count": 1071,
+    "selected": true
+   },
+   {
+    "id": 9229442,
+    "name": "iman-khanzeyndanlou",
+    "persian_name": "ایمان خان زیندانلو",
+    "count": 869,
+    "selected": true
+   }
+  ]
+ },
+ "pagination": {
+  "page": 1,
+  "items_per_page": 24,
+  "total_pages": 9,
+  "total_items": 216,
+  "remaining_pages": 8
+ }
+}

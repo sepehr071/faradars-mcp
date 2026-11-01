@@ -1,0 +1,32 @@
+{
+ "status": true,
+ "data": [
+  {
+   "title": "یک ساله",
+   "slug": "one-year",
+   "price": 1990000,
+   "price_before_discount": 7900000,
+   "discount_percent": 75,
+   "duration_days": 366,
+   "is_active": true,
+   "is_hidden": false
+  },
+  {
+   "title": "شش ماهه",
+   "slug": "six-months",
+   "price": 1480000,
+   "price_before_discount": 5900000,
+   "discount_percent": 75,
+   "duration_days": 186,
+   "is_active": true,
+   "is_hidden": false
+  },
+  {
+   "title": "hidden",
+   "slug": "x",
+   "price": 1,
+   "is_active": true,
+   "is_hidden": true
+  }
+ ]
+}

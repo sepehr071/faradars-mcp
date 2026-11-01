@@ -1,0 +1,202 @@
+{
+ "data": {
+  "instructor_products": [
+   {
+    "id": 9230300,
+    "title": "آموزش یادگیری ماشین با پایتون – ماشین لرنینگ با Python + گواهینامه",
+    "slug": "machine-learning-using-python-fvpht0091",
+    "url": "https://faradars.org/courses/machine-learning-using-python-fvpht0091",
+    "type": "course",
+    "price": 2590000,
+    "status": "published",
+    "duration": {
+     "hours": 15,
+     "minutes": 59,
+     "in_minutes": 959,
+     "rounded_in_hour": 16
+    },
+    "student_count": 11572,
+    "instructors": [
+     {
+      "first_name": "پژمان",
+      "last_name": "اقبالی شمس آبادی"
+     }
+    ],
+    "festival_new": {
+     "price_on_festival": 518000,
+     "is_percent": true,
+     "discount_value": 80,
+     "discount": 2072000
+    },
+    "rating": {
+     "count": 382,
+     "average": 4.69
+    }
+   },
+   {
+    "id": 4055773,
+    "title": "آموزش کتابخانه SciPy برای محاسبات علمی در پایتون – بخش یکم + گواهینامه",
+    "slug": "scipy-scientific-computing-python-part-1-fvpht9812",
+    "url": "https://faradars.org/courses/scipy-scientific-computing-python-part-1-fvpht9812",
+    "type": "course",
+    "price": 2190000,
+    "status": "published",
+    "duration": {
+     "hours": 9,
+     "minutes": 27,
+     "in_minutes": 567,
+     "rounded_in_hour": 9
+    },
+    "student_count": 2528,
+    "instructors": [
+     {
+      "first_name": "پژمان",
+      "last_name": "اقبالی شمس آبادی"
+     }
+    ],
+    "festival_new": {
+     "price_on_festival": 438000,
+     "is_percent": true,
+     "discount_value": 80,
+     "discount": 1752000
+    },
+    "rating": {
+     "count": 40,
+     "average": 4.51
+    }
+   }
+  ],
+  "recommended_products": [
+   {
+    "id": 9230811,
+    "title": "آموزش برنامه نویسی پایتون پیشرفته – ترفندهای Python + گواهینامه",
+    "slug": "python-tricks-fvrpy103",
+    "url": "https://faradars.org/courses/python-tricks-fvrpy103",
+    "type": "course",
+    "price": 1890000,
+    "status": "published",
+    "duration": {
+     "hours": 9,
+     "minutes": 9,
+     "in_minutes": 549,
+     "rounded_in_hour": 9
+    },
+    "student_count": 17682,
+    "instructors": [
+     {
+      "first_name": "سید مصطفی",
+      "last_name": "کلامی هریس"
+     }
+    ],
+    "festival_new": {
+     "price_on_festival": 378000,
+     "is_percent": true,
+     "discount_value": 80,
+     "discount": 1512000
+    },
+    "rating": {
+     "count": 265,
+     "average": 4.66
+    }
+   },
+   {
+    "id": 9230300,
+    "title": "آموزش یادگیری ماشین با پایتون – ماشین لرنینگ با Python + گواهینامه",
+    "slug": "machine-learning-using-python-fvpht0091",
+    "url": "https://faradars.org/courses/machine-learning-using-python-fvpht0091",
+    "type": "course",
+    "price": 2590000,
+    "status": "published",
+    "duration": {
+     "hours": 15,
+     "minutes": 59,
+     "in_minutes": 959,
+     "rounded_in_hour": 16
+    },
+    "student_count": 11572,
+    "instructors": [
+     {
+      "first_name": "پژمان",
+      "last_name": "اقبالی شمس آبادی"
+     }
+    ],
+    "festival_new": {
+     "price_on_festival": 518000,
+     "is_percent": true,
+     "discount_value": 80,
+     "discount": 2072000
+    },
+    "rating": {
+     "count": 382,
+     "average": 4.69
+    }
+   }
+  ],
+  "relatedProducts": [
+   {
+    "id": 44918,
+    "title": "آموزش اچ تی ام ال – طراحی وب با HTML – مقدماتی + گواهینامه",
+    "slug": "fvh4c94062-basic-of-web-design-using-html",
+    "url": "https://faradars.org/courses/fvh4c94062-basic-of-web-design-using-html",
+    "type": "course",
+    "price": 1690000,
+    "status": "published",
+    "duration": {
+     "hours": 2,
+     "minutes": 56,
+     "in_minutes": 176,
+     "rounded_in_hour": 3
+    },
+    "student_count": 32256,
+    "instructors": [
+     {
+      "first_name": "محمد",
+      "last_name": "عبداللهی"
+     }
+    ],
+    "festival_new": {
+     "price_on_festival": 119000,
+     "is_percent": false,
+     "discount_value": 119000,
+     "discount": 1571000
+    },
+    "rating": {
+     "count": 614,
+     "average": 4.62
+    }
+   },
+   {
+    "id": 30543,
+    "title": "آموزش برنامه نویسی جاوا Java + گواهینامه",
+    "slug": "fvrj101-java-programming",
+    "url": "https://faradars.org/courses/fvrj101-java-programming",
+    "type": "course",
+    "price": 2190000,
+    "status": "published",
+    "duration": {
+     "hours": 19,
+     "minutes": 19,
+     "in_minutes": 1159,
+     "rounded_in_hour": 19
+    },
+    "student_count": 37307,
+    "instructors": [
+     {
+      "first_name": "سید مصطفی",
+      "last_name": "کلامی هریس"
+     }
+    ],
+    "festival_new": {
+     "price_on_festival": 119000,
+     "is_percent": false,
+     "discount_value": 119000,
+     "discount": 2071000
+    },
+    "rating": {
+     "count": 495,
+     "average": 4.45
+    }
+   }
+  ]
+ }
+}

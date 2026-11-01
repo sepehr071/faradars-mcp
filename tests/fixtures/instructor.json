@@ -1,0 +1,50 @@
+{
+ "status": true,
+ "data": {
+  "id": 363151,
+  "name": "پژمان اقبالی شمس آبادی",
+  "slug": "pejman-eqbali",
+  "photo": "https://faradars.org/wp-content/uploads/2026/09/27/pejman-eqbali.jpg",
+  "instructor_grade": "مهندسی بیومکانیک",
+  "instructor_educational_background": [
+   {
+    "degree": "کارشناسی",
+    "grade": "مهندسی مکانیک",
+    "university": "دانشگاه یزد"
+   },
+   {
+    "degree": "کارشناسی ارشد",
+    "grade": "مهندسی مکانیک",
+    "university": "دانشگاه علم و صنعت ایران"
+   },
+   {
+    "degree": "دانشجوی دکتری تخصصی",
+    "grade": "مهندسی بیومکانیک",
+    "university": "دانشگاه EPFL سوئیس"
+   }
+  ],
+  "instructor_university": "دانشگاه EPFL سوئیس",
+  "instructor_field": "مدرس فرادرس",
+  "instructor_degree": "دانشجوی دکتری تخصصی",
+  "instructor_research_fields": null,
+  "instructor_skills": null,
+  "total_students": 354669,
+  "total_study_time": 136.4,
+  "total_study_time_multiplier": "میلیون",
+  "total_duration": 14872,
+  "total_count": 54,
+  "more_than_one_year": false,
+  "last_year_study_time": 35.8,
+  "last_year_study_time_multiplier": "میلیون",
+  "last_year_product": 0,
+  "last_year_product_time": 0,
+  "last_year_student": 73250,
+  "years": 444,
+  "excerpt": "مهندس پژمان اقبالی شمس‌آبادی دانشجوی دکتری بیومکانیک در دانشگاه EPFL سوئیس و مشغول کار بر روی پروژه خود در زمینه کاربرد هوش مصنوعی در پزشکی هستند. ایشان مسلط به برنامه‌نویسی Python, R و MATLAB بوده و تمرکز ایشان بر روی مدل‌های آماری و یادگیری ماشین است.",
+  "content": "<p style=\"text-align:justify\"><strong>مهندس پژمان اقبالی شمس&zwnj;آبادی&nbsp;&nbsp;</strong>دانشجوی دکتری بیومکانیک در دانشگاه EPFL سوئیس و مشغول کار بر روی پروژه خود در زمینه کاربرد هوش مصنوعی در پزشکی هستند. ایشان مسلط به برنامه&zwnj;نویسی Python, R و MATLAB&nbsp;بوده و تمرکز ایشان بر روی مدل&zwnj",
+  "grade": "مدرس فرادرس",
+  "show_years": true,
+  "seo_title": "پژمان اقبالی شمس آبادی – جدیدترین دوره‌ها و آموزش‌ها - فرادرس",
+  "is_favorite": false
+ }
+}
