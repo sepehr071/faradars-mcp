@@ -95,7 +95,11 @@ async def fr_articles(
         posts, h = await fetch_with_headers(f"{BLOG}/posts", {**params, "_fields": LIST_FIELDS})
     except ApiError as e:
         if e.status == 400:  # WordPress answers 400 for a page past the end
-            return {"page": page, "total": None, "articles": []}
+            try:
+                total, pages = await _totals({}, params, limit)
+            except ApiError:
+                total = pages = None
+            return {"page": page, "pages": pages, "total": total, "more": False, "articles": []}
         raise
     total, pages = await _totals(h, params, limit)
     return {

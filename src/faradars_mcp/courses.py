@@ -204,7 +204,7 @@ def _sections(product: dict[str, Any], lessons: bool) -> list[dict[str, Any]]:
             sec["items"] = [
                 {
                     "title": s.get("online_title") or s.get("name"),
-                    "minutes": round(int(s["duration"]) / 60) if s.get("duration") is not None else None,
+                    "minutes": round(int(s.get("duration") or 0) / 60),  # exam steps carry no duration
                     "free": bool(s["is_free"]) if s.get("is_free") is not None else None,
                 }
                 for s in steps

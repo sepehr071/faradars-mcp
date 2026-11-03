@@ -83,7 +83,7 @@ async def test_course_lesson_rows_always_have_title_minutes_free(client, api):
     api[f"/api/client/v1/product/{SLUG}/show"] = show
     items = (await client.call_tool("fr_course", {"slug": SLUG, "lessons": True})).structured_content
     last = items["syllabus"][0]["items"][-1]
-    assert last == {"title": "تمرین ۱", "minutes": None, "free": None}
+    assert last == {"title": "تمرین ۱", "minutes": 0, "free": None}
 
 
 async def test_course_missing_and_bad_slug(client, api):
