@@ -1,6 +1,6 @@
 [project]
 name = "faradars-mcp"
-version = "0.1.2"
+version = "0.2.0"
 description = "Unofficial read-only MCP server for Faradars (faradars.org), the Persian online course platform: course search, prices, syllabus, instructors, magazine."
 readme = "README.md"
 license = "MIT"
