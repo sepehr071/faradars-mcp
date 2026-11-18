@@ -113,16 +113,6 @@ It is a standard stdio MCP server: run `uvx faradars-mcp`, or `pip install farad
 
 All 16 tools are annotated `readOnlyHint: true`.
 
-## How it works
-
-```text
-  AI agent  ──MCP over stdio──▶  faradars-mcp  ──HTTPS──▶  faradars.org/api/client      courses, categories, instructors
-                                                  └──────▶  blog.faradars.org/wp-json    magazine
-```
-
-Requests look like Faradars' own web app (Chrome TLS fingerprint and headers), at most two at a time, with a 5 minute
-cache. Set `FARADARS_MCP_PROXY=http://host:port` to route through a proxy.
-
 ## Notes
 
 - Unofficial. Not affiliated with or endorsed by Faradars. It reads the same public data the website shows to anyone.
